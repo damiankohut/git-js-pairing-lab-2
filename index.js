@@ -26,16 +26,14 @@ function absoluteValue(num){
             return null
         }
     }
-//     if(num < 0){
-//  return(num * -1)
-//     } 
-//     if (num === null ){
-//     return null
-//     }
 }
-console.log(absoluteValue(7.33))
-console.log(absoluteValue("hi"))
-console.log(absoluteValue(-4))
+// console.log(absoluteValue(7.33))
+// console.log(absoluteValue("hi"))
+// console.log(absoluteValue(-4))
 
+//3
+function multiplesOfFourOrSeven(){
+    
+}
 
 
