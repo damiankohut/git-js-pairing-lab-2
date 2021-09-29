@@ -33,7 +33,12 @@ function absoluteValue(num){
 
 //3
 function multiplesOfFourOrSeven(){
-    
+  for(let i = 1; i<= 100; i++){
+         if (i % 4 ===0 || i % 7 === 0) {
+             console.log(i)
+         }
+  }
+  
 }
-
+multiplesOfFourOrSeven()
 
