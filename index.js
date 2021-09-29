@@ -40,5 +40,18 @@ function multiplesOfFourOrSeven(){
   }
   
 }
-multiplesOfFourOrSeven()
+//multiplesOfFourOrSeven()
+
+function square(int){
+ if (math.sqrt(int) % 1 === 0 ){
+     return (math.sqrt(int))
+ } else {
+    return (math.pow(int,2))
+ }
+}
+ square(6)
+ 
+ 
+
+
 
